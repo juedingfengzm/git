@@ -1,4 +1,3 @@
 git is free GPL
 git is a verion control system
 Git has a mutable index called stage.
-Git tracks changes.
