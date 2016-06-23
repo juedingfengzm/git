@@ -1,2 +1,2 @@
-git is free
+git is free GPL
 git is a verion control system
